@@ -5,7 +5,7 @@
 
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y build-essential autoconf cmake
+sudo apt install -y build-essential autoconf cmake unzip
 sudo apt install -y ocl-icd-libopencl1 opencl-headers clinfo
 sudo apt update -y
 sudo apt upgrade -y
