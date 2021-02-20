@@ -12,5 +12,5 @@ sudo apt upgrade -y
 
 tar -xf computecpp-ce-2.3.0-x86_64-linux-gnu.tar.gz
 
-tar -xf l_opencl_p_18.1.0.015.tgz
+#tar -xf l_opencl_p_18.1.0.015.tgz
 
